@@ -1,0 +1,42 @@
+body {
+  background-color: #ebf6ef;
+}
+
+#counter {
+  background-image: url("/roman-skrypnyk-IWm9a9AMnf8-unsplash.jpg");
+  background-repeat: no-repeat;
+  min-height: 800px;
+  margin: auto;
+  width: 50%;
+}
+
+input[type="button" i] {
+  background-color: #ebf6ef;
+  color: #724a25;
+  height: 70px;
+  width: 70px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#message {
+  color: red;
+  width: 60%;
+  margin: auto;
+  font-weight: 900;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+}
+
+.box {
+  width: 25%;
+  margin: auto;
+}
+#value {
+  display: block;
+  width: 73%;
+  margin: auto;
+  font-size: 50px;
+  font-weight: bold;
+}
